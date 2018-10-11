@@ -1,0 +1,29 @@
+[Title: Life Resume Work]
+    [Jobs]
+        1. Dishwasher
+        2. Phones support for ISP
+        3. Computer repair technician
+        4. PC support
+        5. Systems engineer consultant
+        6. Network engineer
+        7. DevOps Engineer
+    [Certifications]
+        1. A+
+        2. N+
+        3. MCSA 2003
+        4. CCNA
+        5. CCNP
+        6. CCDA
+        7. CCDP
+        8. AWS Cloud Practitioner
+    [Misc Tech Skills]
+        - Linux Administration
+        - Shell,Perl,PHP scripting
+        - Terraform
+        - GIT
+        - Python
+        - Agile/SAFe
+        - Wireshark, QoS, MPLS classes
+    [Conferences]
+        - Cisco Live
+        - VMWorld
